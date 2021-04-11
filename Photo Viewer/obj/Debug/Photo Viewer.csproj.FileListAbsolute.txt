@@ -1,0 +1,9 @@
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.exe.config
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.exe
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.pdb
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\obj\Debug\Photo_Viewer.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.exe
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.pdb
+E:\Visual Studio 2015\Projects\Photo Viewer\Photo Viewer\obj\Debug\Photo_Viewer.Form1.resources
